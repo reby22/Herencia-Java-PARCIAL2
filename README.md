@@ -1,3 +1,3 @@
-# Chinga tu madre ANGEL 
+# Angel CHISMOSOTE
 ![Diagrama UML](DiagramaUML.png)    
 
