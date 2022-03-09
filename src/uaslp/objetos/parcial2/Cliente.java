@@ -12,3 +12,4 @@ public class Cliente extends uaslp.objetos.parcial2.Persona{
         this.telefonoDeContacto = telefonoDeContacto;
     }
 }
+
